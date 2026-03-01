@@ -1,13 +1,13 @@
 ## 📑 Table of Contents
 * [1. Basic Commands](#1-basic-commands)
 * [2. Key Concepts Explained](#2-key-concepts-explained)
-    * [The Rules of Aliases](#the-rules-of-aliases)
-    * [Logic with CASE](#logic-with-case)
-    * [Joins](#joins)
-    * [Group by](#group-by)
-* [3. Functions & Operators](#6-functions--operators)
-* [4. Searching Text](#-7-searching-text-exact-vs-fuzzy-match)
-* [5. Full Example](#-5-example)
+   * [The Rules of Aliases](#the-rules-of-aliases)
+   * [Logic with CASE](#logic-with-case)
+   * [Joins](#joins)
+   * [Group by](#group-by)
+* [3. Functions & Operators](#3-functions-operators)
+* [4. Searching Text](#4-searching-text)
+* [3. Example](#3-example)
 
 # 1. Basic Commands
 The fundamental building blocks of every query.
@@ -100,7 +100,7 @@ Used in the `WHERE` clause to filter data.
 | `BETWEEN x AND y` | Matches values within a range (inclusive). |
 
 ---
-## Searching Text
+## 4. Searching Text
 When filtering text in your `WHERE` clause, you have two main options:
 
 | Operator | Match |
