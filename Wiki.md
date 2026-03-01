@@ -106,7 +106,7 @@ When filtering text in your `WHERE` clause, you have two main options:
 | Operator | Match |
 | :--- | :--- |
 | `=`| Exact Match (includes capitalization) |
-| `LIKE` | Fuzzy Match (us the % wildcard as placeholder for anything |
+| `LIKE` | Fuzzy Match (us the % wildcard as placeholder for anything) |
 
 ```
 Exact Match: 
